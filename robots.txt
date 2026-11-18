@@ -9,3 +9,5 @@ Allow: /
 
 User-agent: Googlebot
 Allow: /
+
+Sitemap: https://chihebkemaoun.pages.dev/sitemap.xml
