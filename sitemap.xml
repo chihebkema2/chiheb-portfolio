@@ -1,10 +1,9 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://chihebkemaoun.pages.dev/</loc>
-  </url>
-  <url>
-    <loc>https://chihebkemaoun.pages.dev/about.html</loc>
-  </url>
+  <url><loc>https://chihebkemaoun.pages.dev/</loc></url>
+  <url><loc>https://chihebkemaoun.pages.dev/about.html</loc></url>
+  <url><loc>https://chihebkemaoun.pages.dev/services.html</loc></url>
+  <url><loc>https://chihebkemaoun.pages.dev/amazon-services.html</loc></url>
+  <url><loc>https://chihebkemaoun.pages.dev/software-ai.html</loc></url>
+  <url><loc>https://chihebkemaoun.pages.dev/ventures.html</loc></url>
 </urlset>
